@@ -1,0 +1,32 @@
+.highlightsRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 0rem;
+}
+
+.colOne {
+  width: 85%;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  letter-spacing: 0;
+  font-size: 1.4rem;
+  line-height: 3rem;
+}
+
+.highlights {
+  margin: 4rem 0rem;
+}
+
+@media (max-width: 950px) {
+  .colOne h2 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 750px) {
+  .colOne h2 {
+    font-size: 1.3rem;
+  }
+}

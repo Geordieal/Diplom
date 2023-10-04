@@ -1,0 +1,17 @@
+.sliderSection {
+  margin-top: 4rem;
+}
+
+.topRow {
+  margin-bottom: 2rem;
+}
+
+.topRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sliderSection span {
+  font-size: 1.2rem;
+  align-self: flex-end;
+}

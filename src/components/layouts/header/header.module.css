@@ -1,0 +1,165 @@
+.brand {
+  width: 14rem;
+  height: 5.5rem;
+  margin-right: 20px;
+  position: absolute;
+  top: 1rem;
+}
+
+.header {
+  background-color: #fff;
+  position: sticky;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  border-bottom: 1px solid #ebebeb;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  padding: 0rem 2rem 0rem;
+  padding-top: 3rem;
+}
+
+.nav {
+  display: flex;
+  padding-left: 1rem;
+}
+
+.headerIcons {
+  display: flex;
+  margin-bottom: 1rem;
+}
+
+.headerIcon {
+  margin-left: 1.4rem;
+}
+
+.icon {
+  width: 0.95rem;
+  height: 0.95rem;
+  display: inline-block;
+}
+
+/* ------------------------- */
+
+/* Navbar container */
+.navBar {
+  overflow: hidden;
+}
+
+/* Links inside the navbar */
+.navBar a {
+  float: left;
+  font-size: 16px;
+  color: #212121;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropDown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropBtn {
+  text-transform: uppercase;
+}
+
+.dropDown .dropBtn {
+  border: none;
+  outline: none;
+  color: #212121;
+  padding: 14px 16px;
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.dropDown .dropBtn:hover {
+  color: #757575;
+  text-decoration: underline;
+}
+
+.dropDownContent {
+  display: none;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  box-shadow: 0 100vmax 0 100vmax rgba(0, 0, 0, 0.5);
+  z-index: 1000;
+  padding-top: 0.95rem;
+}
+
+.dropDownContent h3 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  color: #fff;
+  line-height: 1.6rem;
+}
+
+.dropDown:hover .dropDownContent {
+  display: block;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  background-color: #212121;
+  height: 300px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.column a {
+  font-size: 0.9rem;
+  float: none;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.column a:hover {
+  color: #ebebeb;
+}
+
+.column:first-child {
+  padding-left: 20rem;
+}
+
+.column:last-child {
+  padding-right: 20rem;
+}
+
+.dropDownContent li {
+  height: 50px;
+}
+
+/* ---------------------media--------------------- */
+
+@media (max-width: 1024px) {
+  .nav {
+    display: none;
+  }
+
+  .headerIcons {
+    padding-right: 3rem;
+    margin-top: 0.7rem;
+    margin-left: 0rem;
+  }
+
+  .headerIcon:nth-child(2),
+  .headerIcon:nth-child(3) {
+    display: none;
+  }
+}

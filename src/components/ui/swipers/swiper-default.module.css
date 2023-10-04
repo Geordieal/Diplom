@@ -1,0 +1,20 @@
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  min-width: 2.9rem;
+  height: 2.8rem;
+  background-color: white;
+  font-size: 2rem;
+}
+
+.item {
+  overflow: hidden;
+  object-fit: cover;
+}
+.swiper {
+  width: 140%;
+}

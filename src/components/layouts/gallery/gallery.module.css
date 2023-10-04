@@ -1,0 +1,32 @@
+.gallery {
+  padding-top: 3rem;
+}
+
+.container {
+  position: relative;
+  display: inline-block;
+}
+
+.gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.caption {
+  color: #fff;
+}
+
+.stickyContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  z-index: 1;
+  padding: 20px;
+  text-align: center;
+  left: calc(50% - 150px);
+  top: calc(50% - 100px);
+  gap: 1rem;
+}

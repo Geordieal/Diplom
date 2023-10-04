@@ -1,0 +1,11 @@
+.item {
+  overflow: hidden;
+  object-fit: cover;
+}
+.swiper {
+  width: 140%;
+}
+
+.item img {
+  border-radius: 50%;
+}

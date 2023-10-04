@@ -1,0 +1,543 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwc66c8283/original/90_1012081-1A09075_1B000_10_Medusa95BoxPleatMiniDress-Clothing-Versace-online-store_2_2.jpg?sw=850&q=85&strip=true",
+      "title": "Medusa '95 Box Pleat Mini Dress",
+      "price": "4,625",
+      "newPrice": "3,200",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "dresses",
+      "product": "clothing"
+    },
+    {
+      "id": 2,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwe1ba73ab/original/90_1012434-1A06750_1B000_10_HourglassGraindePoudreMiniDress-Clothing-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true",
+      "title": "Hourglass Grain de Poudre Mini Dress",
+      "price": "3,025",
+      "newPrice": "2,200",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "dresses",
+      "product": "clothing"
+    },
+    {
+      "id": 3,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw9630c8e5/original/90_1012446-1A00540_1B000_10_RolledMidiDress-Clothing-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true",
+      "title": "Rolled Midi Dress",
+      "price": "2,675",
+      "newPrice": "2,100",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "dresses",
+      "product": "clothing"
+    },
+    {
+      "id": 4,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwd875ac59/original/90_1011665-1A08588_1B000_10_LurexCloquetBoxPleatMiniDess-Clothing-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+      "title": "Lurex Cloquet Box Pleat Mini Dess",
+      "price": "8,425",
+      "newPrice": "6,400",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "dresses",
+      "product": "clothing"
+    },
+    {
+      "id": 5,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwda44f11d/original/90_1011546-1A08449_1B000_10_Crystal~Medusa~95~Mini~Dress--Versace-online-store_1_0.jpg?sw=850&q=85&strip=true",
+      "title": "Crystal Medusa '95 Mini Dress",
+      "price": "3,650",
+      "newPrice": "1,200",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "dresses",
+      "product": "clothing"
+    },
+    {
+      "id": 6,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwd9aad29e/original/90_1012503-1A00540_1B000_10_FoldedMidiDress-Clothing-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true",
+      "title": "Folded Midi Dress",
+      "price": "3,475",
+      "newPrice": "2,350",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "dresses",
+      "product": "clothing"
+    },
+    {
+      "id": 7,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw92051ce8/original/90_1009069-1A08240_1O850_10_Medusa~95~La~Greca~Mini~Dress--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Medusa '95 La Greca Mini Dress",
+      "price": "1,750",
+      "newPrice": "1,500",
+      "company": "Versace",
+      "color": "orange",
+      "category": "women",
+      "productType": "dresses",
+      "product": "clothing"
+    },
+
+    {
+      "id": 8,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwef5453c8/original/90_1004184-1A01759_2W110_22_Greca~Sneakers--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Sneakers",
+      "price": "695",
+      "newPrice": "550",
+      "company": "Versace",
+      "color": "white",
+      "category": "women",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+    {
+      "id": 9,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwcefe9f68/original/90_1004184-1A00775_2W020_22_Greca~Sneakers--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Sneakers",
+      "price": "695",
+      "newPrice": "550",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+    {
+      "id": 10,
+      "src": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/94f9a833550c4083b3090ba473208537_9366/Gazelle_Bold_Shoes_Green_ID6998_01_standard.jpg",
+      "title": "Gazelle Bold",
+      "price": "120",
+      "newPrice": "90",
+      "company": "Adidas",
+      "color": "green",
+      "category": "women",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+    {
+      "id": 11,
+      "src": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0c49e2e2b1774c1c820faf540092425a_9366/Runfalcon_3_Running_Shoes_Black_HP7556_01_standard.jpg",
+      "title": "Runfalcon 3",
+      "price": "65",
+      "newPrice": "50",
+      "company": "Adidas",
+      "color": "black",
+      "category": "women",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+    {
+      "id": 12,
+      "src": "https://nb.scene7.com/is/image/NB/wtmorco3_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+      "title": "Fresh Foam X",
+      "price": "159,99",
+      "newPrice": "125,99",
+      "company": "NB",
+      "color": "orange",
+      "category": "women",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+    {
+      "id": 13,
+      "src": "https://nb.scene7.com/is/image/NB/wt2190a1_nb_02_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+      "title": "FuelCell 2190",
+      "price": "139,99",
+      "newPrice": "119,99",
+      "company": "NB",
+      "color": "white",
+      "category": "women",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+    {
+      "id": 14,
+      "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f92ad8a8-0c67-4de7-87ef-9e4299b1eaa0/air-jordan-1-elevate-low-womens-shoes-Q630Pk.png",
+      "title": "Air Jordan 1 Elevate Low",
+      "price": "135",
+      "newPrice": "108,97",
+      "company": "Nike",
+      "color": "blue",
+      "category": "women",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+    {
+      "id": 15,
+      "src": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6a0f0c22-e2b5-42a9-b9bc-547ba39e2e40/custom-pegasus-40-by-you.png",
+      "title": "Pegasus 40 By You",
+      "price": "160",
+      "newPrice": "130",
+      "company": "Nike",
+      "color": "blue",
+      "category": "women",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+
+    {
+      "id": 16,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw5d3dc79d/original/90_1012106-1A08724_1B00V_20_Croc~EffectGrecaGoddessMiniBag-Bags-Versace-online-store_2_2.jpg?sw=850&q=85&strip=true",
+      "title": "Croc-Effect Greca Goddess Mini Bag",
+      "price": "2,195",
+      "newPrice": "1900",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 17,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dweec33327/original/90_1010951-1A08808_1NA6V_20_Greca~Goddess~Satin~Mini~Bag-Shoulder~Bags-Versace-online-store_1_0.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Goddess Shoulder Bag",
+      "price": "1,795",
+      "newPrice": "1400",
+      "company": "Versace",
+      "color": "orange",
+      "category": "women",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 18,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw8f9e8787/original/90_1007220-1A05134_1W00V_20_Greca~Goddess~Mini~Bag--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Goddess Large Shoulder Bag",
+      "price": "3,150",
+      "newPrice": "2800",
+      "company": "Versace",
+      "color": "white",
+      "category": "women",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 19,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwd16bfd29/original/90_1012570-1A09069_1B000_10_VersaceFilmTitlesSweatshirt-Clothing-Versace-online-store_1_2.jpg?sw=550&q=85&strip=true",
+      "title": "Versace Film Titles Sweatshirt",
+      "price": "950",
+      "newPrice": "700",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "sweatshirts",
+      "product": "clothing"
+    },
+    {
+      "id": 20,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw57428fd9/original/90_1008661-1A06213_1UF90_10_Medusa~Hoodie-Collections-Versace-online-store_0_4.jpg?sw=850&q=85&strip=true",
+      "title": "Medusa Hoodie",
+      "price": "1,175",
+      "newPrice": "700",
+      "company": "Versace",
+      "color": "blue",
+      "category": "men",
+      "productType": "sweatshirts",
+      "product": "clothing"
+    },
+
+    {
+      "id": 21,
+      "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ee3f2362-71bd-482c-9ec4-da409a6c149e/sportswear-club-fleece-mens-graphic-crew-56GFJR.png",
+      "title": "Nike Sportswear Club Fleece",
+      "price": "65",
+      "newPrice": "60",
+      "company": "Nike",
+      "color": "green",
+      "category": "men",
+      "productType": "sweatshirts",
+      "product": "clothing"
+    },
+
+    {
+      "id": 22,
+      "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/75f5cf17-1344-49ef-acbf-219ca2b2c509/sportswear-club-fleece-crew-TWcqLw.png",
+      "title": "Nike Sportswear Club Fleece",
+      "price": "60",
+      "newPrice": "55",
+      "company": "Nike",
+      "color": "blue",
+      "category": "men",
+      "productType": "sweatshirts",
+      "product": "clothing"
+    },
+
+    {
+      "id": 23,
+      "src": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b0ab1cc4ac0a457bb4de8a9fad83defe_9366/All_SZN_Fleece_Sweatshirt_Black_IJ6903_21_model.jpg",
+      "title": "All SZN Fleece",
+      "price": "55",
+      "newPrice": "40",
+      "company": "Adidas",
+      "color": "black",
+      "category": "men",
+      "productType": "sweatshirts",
+      "product": "clothing"
+    },
+
+    {
+      "id": 24,
+      "src": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b1ca80dc065c466ab473a10a689f7260_9366/Trefoil_Essentials_Hoodie_White_IM4526_21_model.jpg",
+      "title": "Trefoil Essenitals",
+      "price": "60",
+      "newPrice": "55",
+      "company": "Adidas",
+      "color": "white",
+      "category": "men",
+      "productType": "sweatshirts",
+      "product": "clothing"
+    },
+    {
+      "id": 25,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw3d2a9e3e/original/90_1009699-1A08705_1B00E_20_NeoNylonLargeToteBag-Bags-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true",
+      "title": "Neo Nylon Large Tote Bag",
+      "price": "1,550",
+      "newPrice": "1,350",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "Neo Nylon",
+      "product": "bags"
+    },
+    {
+      "id": 26,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw6846e849/original/90_1011988-1A08705_1B00E_20_Neo~Nylon~Jacquard~Messenger~Bag-Crossbody~Bags-Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Neo Nylon Jacquard Messenger Bag",
+      "price": "1,375",
+      "newPrice": "1,250",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "Neo Nylon",
+      "product": "bags"
+    },
+
+    {
+      "id": 27,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw437edcaa/original/90_DSU8404-1A08961_1B000_20_CrystalCroc~EffectGrecaSneakers-Shoes-Versace-online-store_0_2.jpg?sw=550&q=85&strip=true",
+      "title": "Crystal Croc-Effect Greca Trainers",
+      "price": "925",
+      "newPrice": "825",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+
+    {
+      "id": 28,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dwaca36cb0/original/90_1008124-1A08728_2B130_22_OdisseaSneakers-Shoes-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+      "title": "Odissea Trainers",
+      "price": "750",
+      "newPrice": "625",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+
+    {
+      "id": 29,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw3951cbbe/original/90_1011349-1A05873_1W000_22_GrecaOdisseaHigh~TopSneakers-Shoes-Versace-online-store_0_2.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Odissea High-Top Trainers",
+      "price": "790",
+      "newPrice": "700",
+      "company": "Versace",
+      "color": "white",
+      "category": "men",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+
+    {
+      "id": 30,
+      "src": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6d2f792b-b4f5-47b7-8f05-8358c8704679/zegama-mens-trail-running-shoes-1t400b.png",
+      "title": "Nike Zegama",
+      "price": "170",
+      "newPrice": "140",
+      "company": "Nike",
+      "color": "white",
+      "category": "men",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+
+    {
+      "id": 31,
+      "src": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b15889fb-3ad4-49e4-aa43-0f6dfcc7bdc9/zoom-fly-5-mens-road-running-shoes-jGsdSl.png",
+      "title": "Nike Zoom Fly 5",
+      "price": "170",
+      "newPrice": "140",
+      "company": "Nike",
+      "color": "black",
+      "category": "men",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+    {
+      "id": 32,
+      "src": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/844c66f5aa784114b481b174386c627b_9366/Gazelle_Indoor_Shoes_Blue_IG4998_01_standard.jpg",
+      "title": "Gazelle Indoor",
+      "price": "120",
+      "newPrice": "110",
+      "company": "Adidas",
+      "color": "blue",
+      "category": "men",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+
+    {
+      "id": 33,
+      "src": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/68ae7ea7849b43eca70aac1e00f5146d_9366/Stan_Smith_Shoes_White_FX5502_01_standard.jpg",
+      "title": "Stan Smith",
+      "price": "100",
+      "newPrice": "85",
+      "company": "Adidas",
+      "color": "white",
+      "category": "men",
+      "productType": "sneakers",
+      "product": "shoes"
+    },
+
+    {
+      "id": 34,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw5d3dc79d/original/90_1012106-1A08724_1B00V_20_Croc~EffectGrecaGoddessMiniBag-Bags-Versace-online-store_2_2.jpg?sw=850&q=85&strip=true",
+      "title": "Croc-Effect Greca Goddess Mini Bag",
+      "price": "2,195",
+      "newPrice": "1900",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 35,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dweec33327/original/90_1010951-1A08808_1NA6V_20_Greca~Goddess~Satin~Mini~Bag-Shoulder~Bags-Versace-online-store_1_0.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Goddess Shoulder Bag",
+      "price": "1,795",
+      "newPrice": "1400",
+      "company": "Versace",
+      "color": "orange",
+      "category": "women",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 36,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw8f9e8787/original/90_1007220-1A05134_1W00V_20_Greca~Goddess~Mini~Bag--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Goddess Large Shoulder Bag",
+      "price": "3,150",
+      "newPrice": "2800",
+      "company": "Versace",
+      "color": "white",
+      "category": "women",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 37,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw3d2a9e3e/original/90_1009699-1A08705_1B00E_20_NeoNylonLargeToteBag-Bags-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true",
+      "title": "Neo Nylon Large Tote Bag",
+      "price": "1,550",
+      "newPrice": "1,350",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "Neo Nylon",
+      "product": "bags"
+    },
+    {
+      "id": 38,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw6846e849/original/90_1011988-1A08705_1B00E_20_Neo~Nylon~Jacquard~Messenger~Bag-Crossbody~Bags-Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Neo Nylon Jacquard Messenger Bag",
+      "price": "1,375",
+      "newPrice": "1,250",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "Neo Nylon",
+      "product": "bags"
+    },
+
+    {
+      "id": 39,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw5d3dc79d/original/90_1012106-1A08724_1B00V_20_Croc~EffectGrecaGoddessMiniBag-Bags-Versace-online-store_2_2.jpg?sw=850&q=85&strip=true",
+      "title": "Croc-Effect Greca Goddess Mini Bag",
+      "price": "2,195",
+      "newPrice": "1900",
+      "company": "Versace",
+      "color": "black",
+      "category": "women",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 40,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dweec33327/original/90_1010951-1A08808_1NA6V_20_Greca~Goddess~Satin~Mini~Bag-Shoulder~Bags-Versace-online-store_1_0.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Goddess Shoulder Bag",
+      "price": "1,795",
+      "newPrice": "1400",
+      "company": "Versace",
+      "color": "orange",
+      "category": "men",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 41,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw8f9e8787/original/90_1007220-1A05134_1W00V_20_Greca~Goddess~Mini~Bag--Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Greca Goddess Large Shoulder Bag",
+      "price": "3,150",
+      "newPrice": "2800",
+      "company": "Versace",
+      "color": "white",
+      "category": "women",
+      "productType": "Greca Goddess Bag",
+      "product": "bags"
+    },
+
+    {
+      "id": 42,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw3d2a9e3e/original/90_1009699-1A08705_1B00E_20_NeoNylonLargeToteBag-Bags-Versace-online-store_1_2.jpg?sw=850&q=85&strip=true",
+      "title": "Neo Nylon Large Tote Bag",
+      "price": "1,550",
+      "newPrice": "1,350",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "Neo Nylon",
+      "product": "bags"
+    },
+    {
+      "id": 43,
+      "src": "https://www.versace.com/dw/image/v2/BGWN_PRD/on/demandware.static/-/Sites-ver-master-catalog/default/dw6846e849/original/90_1011988-1A08705_1B00E_20_Neo~Nylon~Jacquard~Messenger~Bag-Crossbody~Bags-Versace-online-store_0_0.jpg?sw=850&q=85&strip=true",
+      "title": "Neo Nylon Jacquard Messenger Bag",
+      "price": "1,375",
+      "newPrice": "1,250",
+      "company": "Versace",
+      "color": "black",
+      "category": "men",
+      "productType": "Neo Nylon",
+      "product": "bags"
+    }
+  ]
+}

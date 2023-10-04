@@ -1,0 +1,41 @@
+.swiper-button-next:after,
+.swiper-button-prev:after {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  min-width: 2.9rem;
+  height: 2.8rem;
+  background-color: white;
+  font-size: 2rem;
+  color: #212121;
+  margin-bottom: 1.5rem;
+}
+
+.swiper-horizontal > .swiper-scrollbar,
+.swiper-scrollbar.swiper-scrollbar-horizontal {
+  position: relative;
+  margin-top: 1.5rem;
+  cursor: pointer;
+}
+
+@media (max-width: 950px) {
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    min-width: 2.5rem;
+    height: 2.4rem;
+    margin-bottom: 1rem;
+    margin-left: 0.5rem;
+  }
+}
+
+@media (max-width: 750px) {
+  .swiper-button-next:after,
+  .swiper-button-prev:after {
+    min-width: 2rem;
+    height: 2rem;
+    margin-bottom: 0.6rem;
+    margin-left: 0.9rem;
+  }
+}
